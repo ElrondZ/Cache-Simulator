@@ -1,8 +1,5 @@
 # **Cache Simulator**
 
-In this Lab we implemented implement a cycle-accurate simulator for a 5-stage pipelined
-MIPS processor in C++. The simulator supports a subset of the MIPS instruction set and should
-model the execution of each instruction cycle by cycle.
 
 # Cache Design
 
